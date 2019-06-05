@@ -1,0 +1,3 @@
+# Workshops & BOFS: all those pads...
+
+This directory should contain markdown and text files with the notes from the LGM 2019 workshops and BOFs.
